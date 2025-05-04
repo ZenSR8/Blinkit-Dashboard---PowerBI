@@ -1,4 +1,3 @@
-# PowerBi-Projects
 # 📊 Blinkit Sales Dashboard – Power BI Project
 
 Welcome to my Power BI dashboard project built around Blinkit – one of India’s leading instant delivery platforms. This project simulates sales and operational data across various outlets, item types, and product categories, providing key insights to support business decisions.
